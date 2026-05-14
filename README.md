@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sai+Teja+%F0%9F%91%8B;Backend+Engineer+%2B+Agentic+AI+Builder;MS+CS+%40+UIC+%7C+Graduating+May+2026;Open+to+Full-Time+Roles+in+the+US)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=saggu-uic&color=58A6FF&style=flat-square)](https://github.com/saggu-uic)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-teja-aggunna)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:asteja47@gmail.com)
+
+[LinkedIn](https://linkedin.com/in/sai-teja-aggunna) &nbsp;|&nbsp; [Email](mailto:asteja47@gmail.com) &nbsp;|&nbsp; [GitHub](https://github.com/saggu-uic)
 
 </div>
 
@@ -15,7 +15,7 @@
 I'm a software engineer who likes building things that actually have to work under pressure. Most of my recent work is in agentic AI and backend systems, though I've spent enough time debugging Kafka lag and GKE configs to have opinions about both.
 
 - 🎓 MS Computer Science at UIC (GPA 3.8), graduating May 2026
-- 🏫 Undergrad at IIT Kharagpur
+- 🏫 Undergrad at Indian Institute of Technology Kharagpur
 - 🏢 ~3 years industry experience at Jio Platforms and HCL Technologies
 - 🔍 Actively looking for full-time roles in backend / AI infrastructure / agentic systems
 - 🌍 Based in Chicago, open to relocation
@@ -76,17 +76,6 @@ Sentence-transformer embeddings over a FAISS ANN index mapping 7 languages into 
 ![Python](https://skillicons.dev/icons?i=python,go,java,ts,react)
 ![Cloud](https://skillicons.dev/icons?i=gcp,docker,kubernetes,terraform,kafka)
 ![DB](https://skillicons.dev/icons?i=mongodb,postgres,redis,elasticsearch)
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=saggu-uic&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saggu-uic&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 

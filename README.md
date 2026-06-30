@@ -85,7 +85,7 @@ Sentence-transformer embeddings over a FAISS ANN index mapping 7 languages into 
 
 | Period | Role | What I worked on |
 |--------|------|-----------------|
-| May 2025 – Aug 2025 | SWE Intern, Discovery Partners Institute (UIUC) | Medical RAG pipeline, retrieval ablation, faithfulness verification |
+| May 2025 – Aug 2025 | SWE Intern, Discovery Partners Institute (UIUC) | Agentic RAG, Semantic Caching |
 | Dec 2024 – Present | Full Stack Developer, UIC OVC | Multilingual semantic search, offline sync, real-time WebSocket events |
 | Oct 2022 – Jul 2024 | Software Developer, Jio Platforms | JioAds microservices, ad-serving pipeline, Kafka payments, GKE infra |
 | Jun 2021 – Sep 2022 | Senior SWE, HCL Technologies | Elasticsearch catalog ingestion, GraphQL search API, NLP query processing |
